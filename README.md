@@ -1,4 +1,4 @@
-# PowerBI-Blinkit-Analysis-Dashbaord
+# PowerBI-Blinkit-Analysis-Dashboard
 
 ##  Overview
 
