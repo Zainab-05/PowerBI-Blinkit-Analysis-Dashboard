@@ -25,6 +25,7 @@ This project presents an interactive **Power BI dashboard** built to analyze Bli
 ---
 
 ##  Dashboard Features
+<img width="1348" height="776" alt="Blinkit Dashboard Image" src="https://github.com/user-attachments/assets/d6622c31-8a39-4410-ad17-99e83d9a3773" />
 
 ### 🔹 Sales Analysis
 
